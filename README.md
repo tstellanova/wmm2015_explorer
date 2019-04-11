@@ -18,7 +18,7 @@ This repo provides an easy way to build and test this code for educational and r
 
 ### Data Files
 
--`WMM.COF`                 WMM Coefficients file
+- `WMM.COF`                 WMM Coefficients file
 
 
 ### Supporting Documents
@@ -28,17 +28,16 @@ This repo provides an easy way to build and test this code for educational and r
 
 ### Excecutables
 
-`wmm_point.exe`               Command Prompt program for single point 
-`wmm_grid.exe`                Grid, time series or profile
-`wmm_file.exe`                File processing 
+- `wmm_point`               Command Prompt program for single point 
+- `wmm_grid`                Grid, time series or profile
+- `wmm_file`                File processing 
 
 
 ### Test Files
 
-`WMM2015v2testvalues.pdf`         Test values for WMM2015
-`sample_input_file.txt`           Sample input file for program wmm_file.exe 
-`sample_output_file.txt`          Sample output file for program  wmmfile.exe
-
+- `WMM2015v2testvalues.pdf`         Test values for WMM2015
+- `sample_input_file.txt`           Sample input file for program wmm_file.exe 
+- `sample_output_file.txt`          Sample output file for program  wmmfile.exe
 
 
 ## Compiling with gcc
