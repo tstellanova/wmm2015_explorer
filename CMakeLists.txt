@@ -22,3 +22,9 @@ add_executable(wmm_point
         src/GeomagnetismHeader.h
         src/GeomagnetismLibrary.c
         src/wmm_point.c)
+
+add_executable(wmm_dump
+        src/EGM9615.h
+        src/GeomagnetismHeader.h
+        src/GeomagnetismLibrary.c
+        src/wmm_dump.c)
